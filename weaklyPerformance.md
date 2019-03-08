@@ -7,24 +7,22 @@ Dataset/Metric|Pub. / Year|URL|Source|Info.
 
 
 <table>
+<tr>
+    <td>Datasets</td>
+    <td>Metric</td>
+    <td>WSS</td>
+    <td>ASMO</td>
+    <td>ASMO+</td>
+</tr>
 <tr>                                      
-    <td rowspan="7"> 合并多行成一列：<br/>  
-        使用rowspan="n" <br/>
-        跨 n 行合并<br/>
-        </td>
-    <td>文件标识：</td>
-    <td>内容</td>
+    <td rowspan="2"> ECSSD <br/></td>
+    <td>maxF</td>
+    <td>-</td>
+    <td>0.837</td>
+    <td>0.845</td>
 </tr>
 <tr>
-    <td>第一行：</td>
-    <td>该写什么呢？</td>
-</tr>
-<tr>
-    <td>第二行：</td>
-    <td>随便写吧！</td>
-</tr>
-<tr>
-    <td>第三行：</td>
-    <td>OK了！</td>
+    <td>MAE</td>
+    <td>-</td>
 </tr>
 </table>
