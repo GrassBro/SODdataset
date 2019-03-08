@@ -1,7 +1,7 @@
 # SODdataset
 
 
-学号|姓名|分数
+Dataset|Pub. / Year|URL
 -|-|-
 小明|男|75
 小红|女|79
