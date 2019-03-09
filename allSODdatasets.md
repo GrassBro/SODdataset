@@ -14,6 +14,9 @@ Dataset|Pub. / Year|URL|Source|Info.
 **PASCAL-S**|The Secrets of Salient Object Detection, **CVPR 2014**.|[Homepage](http://cbi.gatech.edu/salobj/)|the validation set of the PASCAL VOC 2010| Relative saliency between salient instances. 850 images(Normally used for test.).
 **HKU-IS**|Deep Contrast Learning for Salient Object Detection, **CVPR 2015**.|[Homepage](https://i.cs.hku.hk/~yzyu/research/deep_saliency.html)|Unknown| 2500 images for training, 500 for validation, and 1447 for testing.
 **DUT-OMRON**|Saliency Detection Via Graph-Based Manifold Ranking, **CVPR 2013**.|[Homepage](http://saliencydetection.net/dut-omron/)|SUN database| 5019 images for testing. More details could be found in their [FCV paper](http://saliencydetection.net/dut-omron/download/FCV2014.pdf). 
+**DUTS**|Learning to Detect Salient Objects with Image-level Supervision, **CVPR 2017**.|[Homepage](http://saliencydetection.net/duts/)|ImageNet DET datasets|10553 training images and 5019 test images. 
+**SOC**|Salient Objects in Clutter: Bringing Salient Object Detection to the Foreground, **ECCV 2018.**|[Homepage](http://dpfan.net/SOCBenchmark/)|MSCOCO|6K images(3.6K for training, 1.2K for validation, 1.2K for testing). Accurate and clear boundary label. instance-level segmentation. Visual attributes for result evaluation.
+
 
 
 
