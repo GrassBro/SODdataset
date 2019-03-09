@@ -8,15 +8,16 @@ Dataset|Pub. / Year|URL|Source|Info.
 **MSRA10K**<br>(**THUS10000**)|Global Contrast based Salient Region Detection, **PAMI 2015**.|[Homepage](https://mmcheng.net/msra10k/)|MSRA|--
 **SED**|Image Segmentation by Probabilistic Bottom-up Aggregation and Cue Integration, **CVPR 2007**.|[Homepage](http://www.wisdom.weizmann.ac.il/~vision/Seg_Evaluation_DB/index.html)|Unknown|200 images, 1 or 2 clear objects.
 **MSRA-1000**|Frequency-tuned Salient Region Detection, **CVPR 2009**.|[Homepage](https://ivrlwww.epfl.ch/supplementary_material/RK_CVPR09/) |MSRA| Contour label. Work that be evaluated on this dataset has less power of  persuasion, suggested by CMM.
-**CSSD**|Hierarchical Saliency Detection, **CVPR 2013**.|[Homepage](http://www.cse.cuhk.edu.hk/leojia/projects/hsaliency/) |BSD300, VOC dataset and internet.| Complex Scene Saliency Dataset(CSSD). 200 images.
-**ECSSD**|Hierarchical Image Saliency Detection on Extended CSSD, **PAMI 2016**.|[Homepage](http://www.cse.cuhk.edu.hk/leojia/projects/hsaliency/dataset.html)|Internet| Semantically meaningful but structurally complex images. 1000 images.
+**CSSD**|Hierarchical Saliency Detection, **CVPR 2013**.|[Homepage](http://www.cse.cuhk.edu.hk/leojia/projects/hsaliency/) |BSD300, VOC dataset and internet.| Complex Scene Saliency Dataset(CSSD). 200 images.(Normally used for test.)
+**ECSSD**|Hierarchical Image Saliency Detection on Extended CSSD, **PAMI 2016**.|[Homepage](http://www.cse.cuhk.edu.hk/leojia/projects/hsaliency/dataset.html)|Internet| Semantically meaningful but structurally complex images. 1000 images.(Normally used for test.)
 **THUR**|SalientShape: Group Saliency in Image Collections, **The Visual Computing 2014**.|[Homepage](https://mmcheng.net/gsal/)|Flickr| 6000+ images for 5 categories: butterfly, coffe mug, dog jump, griaffe, and plane.
-**PASCAL-S**|The Secrets of Salient Object Detection, **CVPR 2014**.|[Homepage](http://cbi.gatech.edu/salobj/)|the validation set of the PASCAL VOC 2010| Relative saliency between salient instances. 850 images.
-**HKU-IS**|Deep Contrast Learning for Salient Object Detection, **CVPR 2015**.|[Homepage](https://i.cs.hku.hk/~yzyu/research/deep_saliency.html)|Unknown| 2500 images for training, 500 for validation, and 1447 for testing 
+**PASCAL-S**|The Secrets of Salient Object Detection, **CVPR 2014**.|[Homepage](http://cbi.gatech.edu/salobj/)|the validation set of the PASCAL VOC 2010| Relative saliency between salient instances. 850 images(Normally used for test.).
+**HKU-IS**|Deep Contrast Learning for Salient Object Detection, **CVPR 2015**.|[Homepage](https://i.cs.hku.hk/~yzyu/research/deep_saliency.html)|Unknown| 2500 images for training, 500 for validation, and 1447 for testing.
+**DUT-OMRON**|Saliency Detection Via Graph-Based Manifold Ranking, **CVPR 2013**.|[Homepage](http://saliencydetection.net/dut-omron/)|SUN database| 5019 images for testing. More details could be found in their [FCV paper](http://saliencydetection.net/dut-omron/download/FCV2014.pdf). 
 
 
 
 
 Remaining questions:
-1. What is the split of above datasets?
+1. More details about how to split train/val/test sets for MSRA10K.
 
