@@ -6,7 +6,7 @@ Dataset|Pub. / Year|URL|Source|Info.
 **MSRA**|Learning to Detect a Salient Object, **CVPR 2007**.|Not Found|Not Specific| Image set A: 20840 images, Image set B: 5000 images selected from A with less ambiguity. (Training set: Randomly select 2000 from set A, and 1000 from set B)
 **MSRA-B**|Salient Object Detection: A Discriminative Regional Feature Integration Approach, **CVPR 2013**.|[Homepage](https://people.cs.umass.edu/~hzjiang/drfi/)|Image set B of MSRA|2500 images for training, 500 for validation, and 2000 for testing (full list can be found at the bottom of the project page.)
 **MSRA10K**<br>(**THUS10000**)|Global Contrast based Salient Region Detection, **PAMI 2015**.|[Homepage](https://mmcheng.net/msra10k/)|MSRA|--
-**SED**|Image Segmentation by Probabilistic Bottom-up Aggregation and Cue Integration, **CVPR 2007**.|[Homepage](http://www.wisdom.weizmann.ac.il/~vision/Seg_Evaluation_DB/index.html)|Unknown|200 images, 1 or 2 clear objects.
+**SED1/2**|Image Segmentation by Probabilistic Bottom-up Aggregation and Cue Integration, **CVPR 2007**.|[Homepage](http://www.wisdom.weizmann.ac.il/~vision/Seg_Evaluation_DB/index.html)|Unknown|200 images, 1 or 2 clear objects.
 **MSRA-1000**|Frequency-tuned Salient Region Detection, **CVPR 2009**.|[Homepage](https://ivrlwww.epfl.ch/supplementary_material/RK_CVPR09/) |MSRA| Contour label. Work that be evaluated on this dataset has less power of  persuasion, suggested by CMM.
 **CSSD**|Hierarchical Saliency Detection, **CVPR 2013**.|[Homepage](http://www.cse.cuhk.edu.hk/leojia/projects/hsaliency/) |BSD300, VOC dataset and internet.| Complex Scene Saliency Dataset(CSSD). 200 images.(Normally used for test.)
 **ECSSD**|Hierarchical Image Saliency Detection on Extended CSSD, **PAMI 2016**.|[Homepage](http://www.cse.cuhk.edu.hk/leojia/projects/hsaliency/dataset.html)|Internet| Semantically meaningful but structurally complex images. 1000 images.(Normally used for test.)
@@ -16,7 +16,8 @@ Dataset|Pub. / Year|URL|Source|Info.
 **DUT-OMRON**|Saliency Detection Via Graph-Based Manifold Ranking, **CVPR 2013**.|[Homepage](http://saliencydetection.net/dut-omron/)|SUN database| 5019 images for testing. More details could be found in their [FCV paper](http://saliencydetection.net/dut-omron/download/FCV2014.pdf). 
 **DUTS**|Learning to Detect Salient Objects with Image-level Supervision, **CVPR 2017**.|[Homepage](http://saliencydetection.net/duts/)|ImageNet DET datasets|10553 training images and 5019 test images. 
 **SOC**|Salient Objects in Clutter: Bringing Salient Object Detection to the Foreground, **ECCV 2018.**|[Homepage](http://dpfan.net/SOCBenchmark/)|MSCOCO|6K images(3.6K for training, 1.2K for validation, 1.2K for testing). Accurate and clear boundary label. instance-level segmentation. Visual attributes for result evaluation.
-
+**Judd-DB**|What is a salient object? A dataset and a baseline model for salient object detection, **TIP 2015**|Unknown|Judd|900 images.
+**XPIE**|What is and what is not a salient object? learning salient object detector by ensembling linear exemplar regressors, **CVPR 2017**.|[Homepage](http://cvteam.net/projects/CVPR17-ELE/ELE.html)|Panoramio, ImageNet, and two fixation datasets.|10000 images.
 
 
 
