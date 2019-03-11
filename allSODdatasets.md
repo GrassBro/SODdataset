@@ -18,6 +18,7 @@ Dataset|Pub. / Year|URL|Source|Info.
 **DUTS**|Learning to Detect Salient Objects with Image-level Supervision, **CVPR 2017**.|[Homepage](http://saliencydetection.net/duts/)|ImageNet DET datasets|10553 training images and 5019 test images. 
 **XPIE**|What is and what is not a salient object? learning salient object detector by ensembling linear exemplar regressors, **CVPR 2017**.|[Homepage](http://cvteam.net/projects/CVPR17-ELE/ELE.html)|Panoramio, ImageNet, and two fixation datasets.|10000 images.
 **SOC**|Salient Objects in Clutter: Bringing Salient Object Detection to the Foreground, **ECCV 2018.**|[Homepage](http://dpfan.net/SOCBenchmark/)|MSCOCO|6K images(3.6K for training, 1.2K for validation, 1.2K for testing). Accurate and clear boundary label. instance-level segmentation. Visual attributes for result evaluation.
+**SOS**|Salient Object Subitizing, **CVPR 2017**.|[Homepage](http://cs-people.bu.edu/jmzhang/sos.html)|2064 images from COCO, 2141 from VOC07, 1610 from ImageNet, 1085 from SUN| This dataset is built for predicting the existence and the number of salient objects in a scene.
 
 
 
