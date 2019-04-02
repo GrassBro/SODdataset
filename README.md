@@ -1,1 +1,1 @@
-In this respository, I conclude all the important information of Salient Object Detection(SOD) datasets, including the Published conferences/Journals and corresponding year, the source of collection, the url for quick aquiring, and the abstract information.
+The datasets for training and evaluating salient object detection.
