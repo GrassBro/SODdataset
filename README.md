@@ -1,11 +1,5 @@
 # Salient object detection datasets
 
-## Note:
-* In this repository, I collect and conclude useful information about salient object detection datasets, which is listed in a table. If you have other insights or find something inaccurate, please pull requests or email me about your idea.
-
-
-
-
 
 Dataset|Pub. / Year|URL|Source|Info.
 :-: | :-: | :-: | :-: | :-:
@@ -27,11 +21,5 @@ Dataset|Pub. / Year|URL|Source|Info.
 **SOC**|Salient Objects in Clutter: Bringing Salient Object Detection to the Foreground, **ECCV 2018.**|[Homepage](http://dpfan.net/SOCBenchmark/)|MSCOCO|6K images(3.6K for training, 1.2K for validation, 1.2K for testing). Accurate and clear boundary label. instance-level segmentation. Visual attributes for result evaluation.
 **SOS**|Salient Object Subitizing, **CVPR 2015**.|[Homepage](http://cs-people.bu.edu/jmzhang/sos.html)|6900images in total. 2064 from the COCO, 2141 from the VOC07, 1610 from the ImageNet, 1085 from the SUN.| This dataset is built for predicting the existence and the number of salient objects in a scene. **MSO is a subset of SOS, which is used for reasonable testing.**
 **BSDS**|A Database of Human Segmented Natural Images and its Application to Evaluating Segmentation Algorithms and Measuring Ecological Statistics, **ICCV 2001**.|[Homepage](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/)|Unknown| Original version: 200 training images, 100 testing images. Extented version: 200 test images were added.
-
-
-
-
-Remaining questions:
-1. More details about how to split train/val/test sets for MSRA10K.
 
 
