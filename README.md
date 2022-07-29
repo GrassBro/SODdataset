@@ -26,3 +26,8 @@ Dataset|Pub. / Year|URL|Source|Info.
 
 ## 2) Image-level RGB-D datasets
 ## 3) Video-level datasets
+
+## 4) Point cloud-based Dataset
+Dataset|Pub. / Year|URL|Source|Info.
+:-: | :-: | :-: | :-: | :-:
+**PCSOD**|Salient Object Detection for Point Clouds, **ECCV 2022**.|[Homepage](https://git.openi.org.cn/OpenPointCloud/PCSOD)|TBD|TBD
